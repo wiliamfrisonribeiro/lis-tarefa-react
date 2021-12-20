@@ -12,7 +12,7 @@ const CardTarefa = () => {
 
         <div>
 
-            {listaObjetos.length === 0 && <h2></h2>}
+            {listaObjetos.length === 0 && <h2>Ainda não Listas de Tarefas</h2>}
 
             {listaObjetos.length > 0 && (
                 <div>
