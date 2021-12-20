@@ -13,7 +13,7 @@ const Alerta = ({alerta}) => {
         )
     } else {
         return (
-            <div></div>
+            <div> </div>
         )
     }
 }
